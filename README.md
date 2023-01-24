@@ -1,2 +1,2 @@
 #DESCRIPTION
-To learn git and github better
+To learn git and github better!
